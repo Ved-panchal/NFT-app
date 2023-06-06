@@ -2,7 +2,7 @@
 Mint NFT using Goerli test net
 
 # Configure Network
-1). Add Goerli testnetwork \n/n
+1). Add Goerli testnetwork 
       Network Name: Goerli
       RPC Url : https://rpc.ankr.com/eth_goerli
       Chain Id : 5

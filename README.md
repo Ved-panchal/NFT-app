@@ -10,4 +10,4 @@ Mint NFT using Goerli test net
       Block Explorer url : https://goerli.etherscan.io
 2). Change .env file acc to your details
 3). Deploy contract
-4). FInished
+4). Finished

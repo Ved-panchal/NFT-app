@@ -23,7 +23,7 @@ $ yarn install # or npm install
 ## Step 3. Start Hardhat Node
 Open the terminal and run the command below.
 ```sh
-$ yarn hardhat node # 0r npx hardhat node
+$ yarn hardhat node # or npx hardhat node
 ```
 
 ## Step 4. Run the Front End Application
